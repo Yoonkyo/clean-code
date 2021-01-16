@@ -6,4 +6,4 @@ description: >-
 
 # 3장 함수
 
-[Next](3/1..md)
+[Next](1..md)
